@@ -1,1 +1,1 @@
-# zettel
+# Zettel - Simple MacOs To-Do App
